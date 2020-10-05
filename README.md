@@ -1,2 +1,2 @@
 # Fare-Classification
-Predict whether the fare of a set of trips is correct or not
+This repository conatins the code scripts used for the Kaggle competition held for the module In16-S7-CS4622 - Machine Learning.
